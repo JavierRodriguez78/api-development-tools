@@ -33,6 +33,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Studio](http://apistudio.io/). Write, mock, and share your Swagger specifications online.
 - [Dredd](https://github.com/apiaryio/dredd): Validate API documentation written in API Blueprint against its backend implementation.
 - [APITransformer](https://apitransformer.com/): Transform API Descriptions from/to various formats e.g., Swagger, API Blueprint, RAML, WADL, Google Discovery, I/O Docs.
+- [Stoplight.io](http://stoplight.io/): API designer and proxy, supporting Swagger and RAML.
 
 ## API Frameworks
 ### Ruby
